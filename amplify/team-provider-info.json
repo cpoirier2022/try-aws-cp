@@ -10,6 +10,11 @@
       "StackName": "amplify-tryawscp-dev-151242",
       "StackId": "arn:aws:cloudformation:us-east-1:762886281806:stack/amplify-tryawscp-dev-151242/c3cd1320-10d8-11ec-968c-0e3edd8361ed",
       "AmplifyAppId": "d12kjlg3ifphxu"
+    },
+    "categories": {
+      "auth": {
+        "tryawscp8c84eb20": {}
+      }
     }
   }
 }
