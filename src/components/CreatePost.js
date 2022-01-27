@@ -61,7 +61,7 @@ class CreatePost extends Component {
             onSubmit={this.handleAddPost} >
 
                 <input style={{ font: '19px'}} 
-                  type="text" placeholder="Title"
+                  type="text" placeholder="Jacob is a certified scrub"
                   name="postTitle"
                   required
                   value={this.state.postTitle}
